@@ -23,6 +23,11 @@ Projekt koncepcyjny do portfolio – fikcyjna marka
 ## Lighthouse
 
 <!-- AUDIT:START -->
-Pomiar oczekuje na wykonanie przez workflow „Audyt interfejsu”.
+Pomiar strony głównej na lokalnym serwerze statycznym w GitHub Actions (Chromium · Lighthouse 12).
+
+| Tryb | Wydajność | Dostępność | Dobre praktyki | SEO |
+| --- | ---: | ---: | ---: | ---: |
+| desktop | 100 | 100 | 100 | 100 |
+| mobile | 100 | 100 | 100 | 100 |
 <!-- AUDIT:END -->
 
